@@ -60,11 +60,11 @@ La sortie pytest montre le cas fautif reproduit avant la modification de la fonc
 
 Le message confirme l'acceptation des 17 379 lignes et l'absence de modification du fichier.
 
-![Runs suivis dans MLflow](images/week-1-mlflow.png)
+![Runs suivis dans MLflow](images/week-1-mlflow-runs.png)
 
 Cette vue rattache les données validées aux deux expériences comparées dans le rapport.
 
-![Éléments de preuve de la PR nº 2](images/week-1-pr-review.png)
+![Éléments de preuve de la PR nº 2](images/week-1-lab2-pr-final-evidence.png)
 
 La PR regroupe les résultats du validateur, les tests et les vérifications du pipeline.
 
