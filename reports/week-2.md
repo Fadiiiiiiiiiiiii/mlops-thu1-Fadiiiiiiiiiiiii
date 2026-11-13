@@ -23,7 +23,7 @@ The next area of attention is how the existing workflow can be checked, document
 ## Testing and Validation
 The project was validated through automated tests executed in a Docker environment. The test suite completed successfully with 71 passed tests and 2 warnings, providing additional confidence in the reliability of the implementation.
 
-![Automated test results](images/lab4-tests.png)
+![Automated test results](images/week-2-tests.png)
 
 ## Model Performance Comparison
 
@@ -31,5 +31,5 @@ A comparison was conducted between a naive baseline using the training mean and 
 
 These results highlight the difference between a simple baseline approach and a more advanced machine learning model, providing useful insights for evaluating the project's progress.
 
-![Model performance comparison](images/model-comparison.png)
+![Model performance comparison](images/week-2-model-comparison.png)
 
